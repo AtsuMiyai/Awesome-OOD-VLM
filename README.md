@@ -266,7 +266,7 @@ Besides, please also consider citing our other projects that are closely related
 @article{ming2024does,
   title={How Does Fine-Tuning Impact Out-of-Distribution Detection for Vision-Language Models?},
   author={Ming, Yifei and Li, Yixuan},
-  journal={International Journal of Computer Vision},
+  journal={IJCV},
   volume={132},
   number={2},
   pages={596--609},
