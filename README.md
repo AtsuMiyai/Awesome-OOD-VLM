@@ -119,6 +119,8 @@ To provide diverse perspectives on OOD detection approaches, we have encompassed
 <details open>
 <summary><b> Few-shot</b></summary>
 
+>- [![PEFT-MCM](https://img.shields.io/badge/IJCV'23-PEFTMCM-d0e9ff?style=for-the-badge)](https://link.springer.com/article/10.1007/s11263-023-01895-7)
+   [![Star](https://img.shields.io/github/stars/deeplearning-wisc/MCM.svg?style=social&label=Star)](https://github.com/deeplearning-wisc/MCM), [![Star](https://img.shields.io/github/stars/AtsuMiyai/LoCoOp.svg?style=social&label=Star)](https://github.com/AtsuMiyai/LoCoOp)
 > - [![LoCoOp](https://img.shields.io/badge/NeurIPS'23-LoCoOp-d0e9ff?style=for-the-badge)](https://arxiv.org/abs/2306.01293)
     [![Star](https://img.shields.io/github/stars/AtsuMiyai/LoCoOp.svg?style=social&label=Star)](https://github.com/AtsuMiyai/LoCoOp)
 > - [![LSN](https://img.shields.io/badge/ICLR'24-LSN-d0e9ff?style=for-the-badge)](https://openreview.net/forum?id=nanyAujl6e)
@@ -262,11 +264,11 @@ Besides, please also consider citing our other projects that are closely related
   year={2023}
 }
 
-# CoOp + MCM (Few-shot OOD detection)
+# PEFT-MCM (Few-shot OOD detection)
 @article{ming2024does,
   title={How Does Fine-Tuning Impact Out-of-Distribution Detection for Vision-Language Models?},
   author={Ming, Yifei and Li, Yixuan},
-  journal={International Journal of Computer Vision},
+  journal={IJCV},
   volume={132},
   number={2},
   pages={596--609},
