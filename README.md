@@ -264,7 +264,7 @@ Besides, please also consider citing our other projects that are closely related
   year={2023}
 }
 
-# PEFT-MCM (Few-shot OOD detection)
+# PEFT-MCM (Few-shot OOD detection, Concurrent work with LoCoOp)
 @article{ming2024does,
   title={How Does Fine-Tuning Impact Out-of-Distribution Detection for Vision-Language Models?},
   author={Ming, Yifei and Li, Yixuan},
@@ -275,7 +275,7 @@ Besides, please also consider citing our other projects that are closely related
   year={2024},
 }
 
-# LoCoOp (Few-shot OOD detection)
+# LoCoOp (Few-shot OOD detection, Concurrent work with PEFT-MCM)
 @inproceedings{miyai2023locoop,
   title={LoCoOp: Few-Shot Out-of-Distribution Detection via Prompt Learning},
   author={Miyai, Atsuyuki and Yu, Qing and Irie, Go and Aizawa, Kiyoharu},
