@@ -1,5 +1,5 @@
 # Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey
-[![paper](https://img.shields.io/badge/Paper-arXiv24-b31b1b?style=for-the-badge)](hoge)
+[![paper](https://img.shields.io/badge/Paper-arXiv24-b31b1b?style=for-the-badge)](http://arxiv.org/abs/2407.21794)
 &nbsp;&nbsp;&nbsp;
 [![paper](https://img.shields.io/badge/Issues&#44;%20Comments&#44;%20and%20Questions-are%20all%20welcomed&#33;-f39f37?style=for-the-badge)](https://github.com/AtsuMiyai/Awesome-OOD-VLM/issues)
 &nbsp;&nbsp;&nbsp;
@@ -228,7 +228,7 @@ If you find our survey paper helpful for your research, please consider citing t
 @article{miyai2024generalized2,
   title={Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey},
   author={Miyai, Atsuyuki and Yang, Jingkang and Zhang, Jingyang and Ming, Yifei and Lin, Yueqian and Yu, Qing and Irie, Go and Joty, Shafiq and Li, Yixuan and Li, Hai and Liu, Ziwei and Yamasaki, Toshihiko and Aizawa, Kiyoharu},
-  journal={arXiv preprint arXiv:hogehoge},
+  journal={arXiv preprint arXiv:2407.21794},
   year={2024}
 }
 ```
