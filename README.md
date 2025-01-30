@@ -257,11 +257,13 @@ Besides, please also consider citing our other projects that are closely related
 }
 
 # GL-MCM (Zero-shot OOD detection)
-@article{miyai2023zero,
-  title={Zero-Shot In-Distribution Detection in Multi-Object Settings Using Vision-Language Foundation Models},
+@article{miyai2025gl,
+  title={GL-MCM: Global and Local Maximum Concept Matching for Zero-Shot Out-of-Distribution Detection},
   author={Miyai, Atsuyuki and Yu, Qing and Irie, Go and Aizawa, Kiyoharu},
-  journal={arXiv preprint arXiv:2304.04521},
-  year={2023}
+  journal={International Journal of Computer Vision},
+  pages={1--11},
+  year={2025},
+  publisher={Springer}
 }
 
 # PEFT-MCM (Few-shot OOD detection, Concurrent work with LoCoOp)
