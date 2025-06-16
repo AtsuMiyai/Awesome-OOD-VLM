@@ -1,4 +1,4 @@
-# Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey
+# Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey [TMLR2025]
 [![paper](https://img.shields.io/badge/Paper-arXiv24-b31b1b?style=for-the-badge)](http://arxiv.org/abs/2407.21794)
 &nbsp;&nbsp;&nbsp;
 [![paper](https://img.shields.io/badge/Issues&#44;%20Comments&#44;%20and%20Questions-are%20all%20welcomed&#33;-f39f37?style=for-the-badge)](https://github.com/AtsuMiyai/Awesome-OOD-VLM/issues)
@@ -6,7 +6,7 @@
 [![paper](https://img.shields.io/badge/Forum-SLACK-797ef6?style=for-the-badge)](https://openood.slack.com/)
 
 
-## Generalized OOD Detection v2 [TMLR2025]
+## Generalized OOD Detection v2
 |🚀 Our framework encapsulates the evolution of OOD detection and related tasks in the VLM era, fostering collaborative efforts among each community 🤝|
 |-----------------------------------------|
 
