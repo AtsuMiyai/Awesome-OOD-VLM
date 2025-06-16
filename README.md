@@ -6,7 +6,7 @@
 [![paper](https://img.shields.io/badge/Forum-SLACK-797ef6?style=for-the-badge)](https://openood.slack.com/)
 
 
-## Generalized OOD Detection v2
+## Generalized OOD Detection v2 [TMLR2025]
 |🚀 Our framework encapsulates the evolution of OOD detection and related tasks in the VLM era, fostering collaborative efforts among each community 🤝|
 |-----------------------------------------|
 
