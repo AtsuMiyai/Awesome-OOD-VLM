@@ -19,7 +19,7 @@
     <a href='https://atsumiyai.github.io/' target='_blank'>Atsuyuki Miyai<sup>1</sup></a>&emsp;
     <a href='https://jingkang50.github.io/' target='_blank'>Jingkang Yang<sup>2,†</sup></a>&emsp;
     <a href='https://zjysteven.github.io/' target='_blank'>Jingyang Zhang<sup>3</sup></a>&emsp;
-    <a href='https://pages.cs.wisc.edu/~alvinming/' target='_blank'>Yifei Ming<sup>4</sup></a>&emsp;
+    <a href='https://alvinmingsf.github.io/' target='_blank'>Yifei Ming<sup>4</sup></a>&emsp;
     <a href='https://yueqianlin.com/' target='_blank'>Yueqian Lin<sup>3</sup></a>&emsp;
     <br>
     <a href='https://yu1ut.com/' target='_blank'>Qing Yu<sup>1,5</sup></a>&emsp;
@@ -286,11 +286,11 @@ Besides, please also consider citing our other projects that are closely related
 }
 
 # UPD
-@article{miyai2024upd,
-  title={Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models},
+@inproceedings{miyai2025unsolvable,
+  title={Unsolvable Problem Detection: Robust Understanding Evaluation for Large Multimodal Models},
   author={Miyai, Atsuyuki and Yang, Jingkang and Zhang, Jingyang and Ming, Yifei and Yu, Qing and Irie, Go and Li, Yixuan and Li, Hai and Liu, Ziwei and Aizawa, Kiyoharu},
-  journal={arXiv preprint arXiv:2403.20331},
-  year={2024}
+  booktitle = {Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL)},
+  year={2025}
 }
 ```
 
