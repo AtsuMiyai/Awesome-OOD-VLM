@@ -30,7 +30,7 @@
 	  <a href='https://liuziwei7.github.io/' target='_blank'>Ziwei Liu<sup>2,†</sup></a>
     <br>
     <a href='https://scholar.google.com/citations?user=rE9iY5MAAAAJ&hl=en' target='_blank'>Toshihiko Yamasaki<sup>1</sup></a>&emsp;
-    <a href='https://scholar.google.co.jp/citations?user=CJRhhi0AAAAJ&hl=en' target='_blank'>Kiyoharu Aizawa<sup>1</sup></a>
+    <a href='https://scholar.google.co.jp/citations?user=CJRhhi0AAAAJ&hl=en' target='_blank'>Kiyoharu Aizawa<sup>1,6</sup></a>
 </div>
 <div align="center">
     <sup>1</sup>The University of Tokyo&emsp;
@@ -68,6 +68,7 @@ challenges and potential research directions of OOD detection in the VLM and LVL
 > - [ImageNet OOD Benchmark](https://github.com/deeplearning-wisc/large_scale_ood#out-of-distribution-dataset)
 > - [ImageNet-20, ImageNet-10](https://github.com/deeplearning-wisc/MCM)
 > - [ImageNet protocol](https://github.com/mala-lab/NegPrompt/)
+> - [ImageNet-X, ImageNet-FS-X, Wilds-FS-X](https://github.com/hoshi23/OOD-X-Benchmarks/)
 </details>
 
 <details open>
